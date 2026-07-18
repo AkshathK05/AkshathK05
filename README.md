@@ -78,33 +78,40 @@ HTML • CSS • JavaScript • MySQL • Firebase Authentication • GitHub Act
 - Automated deployments using GitHub Actions
 
 ---
+### Facial Expression Recognition
 
-### Sentiment Analysis
-
-A web application that performs real-time facial emotion recognition using deep learning.
+A machine learning project that recognizes facial expressions using normalized facial landmarks extracted with dlib and a TensorFlow neural network. The project is implemented in Google Colab and includes webcam-based inference for real-time emotion prediction.
 
 **Languages**
 - Python
-- JavaScript
 
-**Frameworks & Libraries**
-- TensorFlow
+**Libraries & Tools**
+- TensorFlow / Keras
 - OpenCV
+- dlib
 - NumPy
+- scikit-learn
+- Google Colab
 
 **Model**
-- Convolutional Neural Network (CNN)
+- Fully Connected Neural Network (Dense Neural Network)
 
-**Datasets**
-- CK+
-- FER2013
-- JAFFE
+**Dataset**
+- CK+ (Extended Cohn-Kanade Dataset)
 
 **Highlights**
-- Developed a webcam-based emotion recognition system
-- Trained CNN models for real-time sentiment detection
-- Built an interactive web interface for live predictions
+- Developed a facial expression recognition system using dlib's 68-point facial landmark detector.
+- Extracted normalized geometric facial features for emotion classification.
+- Trained and evaluated a TensorFlow neural network on the CK+ dataset.
+- Implemented webcam-based real-time emotion prediction in Google Colab.
 
+**Methodology**
+1. Load images from the CK+ dataset.
+2. Detect faces using dlib.
+3. Extract 68 facial landmarks.
+4. Compute normalized geometric facial features.
+5. Train a TensorFlow neural network.
+6. Perform real-time webcam inference.
 ---
 
 ### Plant Disease Prediction
