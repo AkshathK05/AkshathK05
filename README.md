@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Akshath</h1>
 
 <h3 align="center">
-Full Stack Developer • Software Engineer • AI Engineer • Forward Deployed Engineer
+(Aspiring) Full Stack Developer • Software Engineer • AI Engineer • Forward Deployed Engineer
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ Computer Science Engineering undergraduate at **VIT-AP University** with an inte
 
 I enjoy working across the development lifecycle — from building user interfaces and backend APIs to working with databases, authentication, deployment, and AI integrations. I've also worked on production software used by real customers, which has shaped my interest in building solutions around practical user and business requirements.
 
-I'm currently exploring **LLM applications, RAG systems, vector databases, AI agents, AI-assisted software engineering, backend systems, and system design**.
+I'm currently dabbling in **LLM applications, RAG systems, vector databases, AI agents, AI-assisted software engineering, backend systems, and system design**.
 
 - Building full-stack and API-driven applications
 - Experienced with Java, Python, JavaScript, React, SQL, MySQL, MongoDB, and Redis
