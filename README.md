@@ -1,141 +1,123 @@
-<h1 align="center">Hello, I'm Akshath</h1>
+<h1 align="center">Hi, I'm Akshath Kannan</h1>
 
 <h3 align="center">
-(Aspiring) Full Stack Developer • Software Engineer • AI Engineer • Forward Deployed Engineer
+Full-Stack Developer • Backend Engineer • AI & Systems Enthusiast
 </h3>
 
 <p align="center">
-I build production software, full-stack applications, and AI-driven solutions focused on real-world problems.
+Building resilient web architectures, production-grade platforms, and context-grounded AI systems.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/akshathkannan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/AkshathK05"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:akshathkannan3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 ## About Me
 
-Computer Science Engineering undergraduate at **VIT-AP University** with an interest in full-stack development, backend engineering, AI applications, and software architecture.
+Computer Science Engineering undergrad at **VIT-AP University** (graduating in 2027).
 
-I enjoy working across the development lifecycle — from building user interfaces and backend APIs to working with databases, authentication, deployment, and AI integrations. I've also worked on production software used by real customers, which has shaped my interest in building solutions around practical user and business requirements.
+I like building things that actually ship and work under real conditions. I've designed and deployed platforms handling authentication, payments, and document verification for **50+ active clients**, which got me hooked on solving real user pain points and writing clean, scalable backend systems.
 
-I'm currently dabbling in **LLM applications, RAG systems, vector databases, AI agents, AI-assisted software engineering, backend systems, and system design**.
+Right now, I spend most of my time around the intersection of backend engineering and AI: building agentic workflows, multi-tier data retrieval pipelines, and RAG architectures that stay accurate.
 
-- Building full-stack and API-driven applications
-- Experienced with Java, Python, JavaScript, React, SQL, MySQL, MongoDB, and Redis
-- Experience building and deploying production software used by **50+ active clients**
-- Interested in AI applications, RAG, vector databases, and AI-assisted software engineering
-- Interested in **Forward Deployed Engineering (FDE)** and solving technical problems around real customer requirements
-- Comfortable working with Git, GitHub, GitHub Actions, Linux, Firebase Authentication, and CI/CD
-- Currently exploring Spring Boot, Docker, REST API development, AI agents, and system design
-
-Currently pursuing a **Bachelor of Technology in Computer Science Engineering** at **VIT-AP University** (Expected Graduation: **2027**).
+- Interested in **Forward Deployed Engineering (FDE)** and customer-focused backend systems
+- Built and automated CI/CD pipelines with GitHub Actions across multiple production updates
+- Daily-driving Linux and building around RESTful APIs, caching layers, and vector stores
 
 ---
 
 ## Tech Stack
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Databases
+### Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-38B2AC?style=for-the-badge)
 
+### Backend, Databases & Caching
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### AI / Machine Learning
-
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-5B4B8A?style=for-the-badge)
+### Generative AI & Machine Learning
+![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6A5ACD?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Embeddings-5B4B8A?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Authentication & Infrastructure
-
-![Firebase](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
 
 ---
 
 ## Experience
 
 ### Software Development Intern — ITZ4U Consultants Pvt. Ltd.
-
-**May 2026 – July 2026**
-
-Worked on a production tax-filing and document management platform used by **50+ active clients**.
-
-**Highlights**
-
-- Built Firebase Authentication, role-based access control, and document upload and verification workflows.
-- Developed billing and administrative workflows including Razorpay payments, automated invoice generation, client management, and document verification.
-- Set up GitHub Actions CI/CD and contributed production features, bug fixes, deployments, and platform maintenance.
+*May 2026 – July 2026 | Mumbai, Maharashtra*
+- Built a tax-filing and document management web app from scratch using HTML, CSS, and JS, serving **50+ active clients**.
+- Handled billing by tying in Razorpay payments and automatic invoice generation, with an admin panel to verify documents without manual back-and-forth.
+- Implemented Firebase Auth and role-based permissions (RBAC) so sensitive client uploads stayed locked down.
+- Set up automated CI/CD using GitHub Actions, pushing out 10+ updates and fixes while running an Agile workflow.
 
 ---
 
-## Featured Projects
+## Projects
 
 ### TravAI
+**React • TypeScript • Gemini API • RAG • Pinecone • OpenStreetMap API • Vercel**  
+*Check it out live at [travai.hyp.app](https://travai.hyp.app)*
 
-**Python • NLP • LLMs • RAG • Vector Databases**
+An autonomous, conversational travel planner designed to eliminate generic itineraries by combining live geographical data with LLM context.
 
-A conversational travel planning application that lets users describe their travel requirements in natural language and generates personalized trip plans.
+- **Conversational Intelligence:** Leveraged Google Gemini with streaming inference and structured prompt engineering to parse freeform travel constraints like budget, pace, and preferences on the fly.
+- **Grounding with Vector Search:** Architected a RAG pipeline backed by Pinecone embeddings, ensuring recommendations for accommodations and spots are grounded in curated destination knowledge rather than model hallucinations.
+- **Real-World Integrations:** Pulled dynamic location points using the OpenStreetMap and Overpass APIs to generate realistic day-by-day routes.
+- **Agentic Roadmap:** Actively building autonomous tool-calling capabilities, routing sub-tasks (like flight lookups vs. restaurant picks), and orchestrating multi-step plans with RAG evaluation checks.
 
-**Highlights**
+### JobFinder
+**Python • spaCy • Sentence-Transformers • Gemini 3.5 Flash-Lite • httpx • SQLite • Rich**
 
-- Processes natural-language travel requests to identify destinations, budgets, duration, preferences, and other constraints.
-- Uses RAG and vector retrieval to ground generated responses in relevant travel information.
-- Being developed to integrate live flight, hotel, and tourist-spot data.
-- Designed around a conversational interface where users can refine and update their plans through follow-up requests.
+An asynchronous, two-stage ranking job search aggregator built to strip out noisy listings and pinpoint high-match engineering roles without wasting API credits.
 
-**Status:** In Progress
-
----
+- **Multi-Tier Ingestion:** Concurrently queries platforms like Adzuna, The Muse, Greenhouse, and Lever via `httpx`, using query-splitting and dynamic rate-budget fallbacks so it doesn't get throttled.
+- **Two-Stage Ranking Engine:** Uses fast, local vector embeddings (`all-MiniLM-L6-v2`) to quickly filter out low-relevance roles, followed by a pass through Gemini 3.5 Flash-Lite for deep fit-scoring, resume gap analysis, and personalized insights.
+- **Autonomous Search Waterfall:** Dynamically widens query parameters if high-confidence matches (≥85%) run dry, while enforcing strict regex-based experience gating to prevent over-qualified role mismatches.
+- **Deduplication & Caching:** Uses in-memory semantic signatures and an SQLite caching layer to detect duplicate cross-board posts and avoid redundant LLM calls, keeping token costs down.
 
 ### Facial Expression Recognition
-
 **Python • TensorFlow • OpenCV • dlib**
 
-A facial expression recognition system that predicts emotions from geometric facial features extracted from facial landmarks.
+A real-time computer vision system that classifies human emotions through geometric facial landmark distances rather than plain pixel intensity maps.
 
-**Highlights**
-
-- Extracts facial landmark measurements using dlib for use as model features.
-- Trains a feedforward neural network using TensorFlow on the CK+ dataset.
-- Implements webcam-based inference for real-time facial expression prediction.
+- **Geometric Feature Extraction:** Leveraged dlib to detect 68 facial landmark coordinates in real-time, calculating relative spatial vectors across facial regions.
+- **Neural Network Architecture:** Designed a custom feedforward neural network in TensorFlow optimized with ReLU activations, dropout layers to prevent overfitting, and the Adam optimizer.
+- **Evaluation:** Evaluated across 7 emotion classes on the CK+ dataset, reaching **76.14% validation accuracy** across 981 samples with live webcam inference.
 
 ---
 
-## Currently Exploring
+## Certifications
 
-- Spring Boot
-- Docker
-- REST API Development
-- System Design
-- LLM Applications
-- RAG Systems
-- Vector Databases
-- AI Agents
-- AI-Assisted Software Engineering
-- Backend Architecture
-
----
-
-## Connect With Me
-
-- LinkedIn: [https://www.linkedin.com/in/akshathkannan/](https://www.linkedin.com/in/akshathkannan/)
-- GitHub: [https://github.com/AkshathK05](https://github.com/AkshathK05)
-- Email: [akshathkannan3@gmail.com](mailto:akshathkannan3@gmail.com)
+- AWS Academy Cloud Architecting
+- AWS Academy Cloud Foundations
+- MATLAB Onramp
