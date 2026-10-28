@@ -1,123 +1,160 @@
-<h1 align="center">Hi, I'm Akshath Kannan</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer • Backend Engineer • AI & Systems Enthusiast
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7077A1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Akshath+Kannan;Player+1+has+entered+the+game;Breaking%3A+backend+dev+ships+to+50%2B+clients;Current+quest%3A+AI+that+stays+grounded" alt="Typing SVG" />
+
+# THE DAILY RESPAWN
+
+**Mumbai Edition** &nbsp;|&nbsp; **Vol. 2027** &nbsp;|&nbsp; **Price: one GitHub star**
+
+<a href="https://akshathk05.github.io/"><img src="https://img.shields.io/badge/Portfolio-2d3250?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/akshathkannan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:akshathkannan3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+## FRONT PAGE: Local Developer Clears First Real-World Raid
+
+*Intern enters with an empty folder, exits with a production platform serving 50+ clients*
+
+**MUMBAI, May – July 2026.** Player Akshath Kannan joined ITZ4U Consultants Pvt. Ltd. as a Software Developer Intern and built a tax-filing platform from scratch. Sources confirm the platform is live and in use by more than 50 active clients.
+
+During the raid, the player:
+
+- Integrated Razorpay payments and automated invoice generation, defeating manual billing permanently
+- Secured client documents with Firebase Auth and role-based access control
+- Built an admin dashboard for document verification, ending the back-and-forth email boss fight
+- Set up CI/CD with GitHub Actions and shipped 10+ production updates in an Agile workflow
+
+When asked for comment, the platform's billing system reported zero invoices sent by hand.
+
+---
+
+## FEATURE: Character Sheet
+
+| ATTRIBUTE | VALUE |
+|:---|:---|
+| **Player** | Akshath Kannan |
+| **Class** | Backend Engineer |
+| **Subclass** | AI Systems Builder |
+| **Guild** | VIT-AP University, B.Tech CSE |
+| **Level** | Undergrad (max level unlocks 2027) |
+| **Home Base** | Mumbai, India |
+| **Alignment** | Lawful Pragmatic |
+| **Main Quest** | Forward Deployed Engineering |
+
+**Skill Levels**
+
+```
+Backend Engineering   ██████████░░
+RAG & Retrieval       █████████░░░
+Agentic AI            ███████░░░░░  (training in progress)
+Frontend              ███████░░░░░
+Computer Vision       ██████░░░░░░
+```
+
+---
+
+## QUEST REPORTS
+
+### Active Quest: [TravAI](https://travai.hyp.app)
+*A travel planner that knows the difference between your trip and everyone else's.*
+
+`React` `TypeScript` `Gemini API` `RAG` `Pinecone` `OpenStreetMap` `Vercel`
+
+- Parses freeform constraints like budget, pace, and preferences through Gemini with streaming responses
+- RAG pipeline on Pinecone keeps recommendations grounded in curated destination knowledge
+- Pulls live map data from OpenStreetMap and Overpass for realistic day-by-day routes
+- **Next level:** agentic tool calling, task routing, multi-step orchestration, and RAG evaluation
+
+### Quest Complete: JobFinder
+*Reads the job boards so the player doesn't have to.*
+
+`Python` `spaCy` `Sentence-Transformers` `Gemini 3.5 Flash-Lite` `httpx` `SQLite` `Rich`
+
+- Async ingestion from Adzuna, The Muse, Greenhouse, and Lever, with query splitting and rate-budget fallbacks
+- Two-stage ranking: local embeddings filter the noise, then Gemini scores fit and flags skill gaps
+- Search widens automatically when matches above 85% run dry; experience filters remove over-qualified roles
+- Semantic dedup and SQLite caching skip redundant LLM calls and keep costs low
+
+### Quest Complete: A.L.F.R.E.D
+***A**kshath's **L**ocalized **F**ramework for **R**esponsive **E**xecutive **D**uties. The name came first. The acronym was engineered afterwards.*
+
+`Python` `Ollama` `faster-whisper` `Piper TTS` `ChromaDB` `OpenCV` `dlib`
+
+- Fully voice-driven: faster-whisper listens, a local LLM via Ollama thinks, Piper TTS replies
+- Routes inference to a separate Ollama instance so the host machine stays responsive
+- ChromaDB-backed RAG for context, plus OS-level task automation
+- Reads the room using the facial expression model below
+
+### Quest Complete: Facial Expression Recognition
+*Classifies emotions from facial geometry, not pixels.*
+
+`Python` `TensorFlow` `OpenCV` `dlib`
+
+- Tracks 68 facial landmarks in real time and measures the distances between them
+- Custom feedforward network with ReLU, dropout, and Adam
+- **76.14% validation accuracy** across 7 emotions on CK+, with live webcam inference
+
+---
+
+## INVENTORY
 
 <p align="center">
-Building resilient web architectures, production-grade platforms, and context-grounded AI systems.
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,html,css,react,figma&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite,firebase,tensorflow,opencv&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,git,githubactions,linux&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshathkannan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/AkshathK05"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:akshathkannan3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/faster--whisper-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Piper_TTS-2d3250?style=flat-square" />
 </p>
 
 ---
 
-## About Me
+## ACHIEVEMENTS UNLOCKED
 
-Computer Science Engineering undergrad at **VIT-AP University** (graduating in 2027).
-
-I like building things that actually ship and work under real conditions. I've designed and deployed platforms handling authentication, payments, and document verification for **50+ active clients**, which got me hooked on solving real user pain points and writing clean, scalable backend systems.
-
-Right now, I spend most of my time around the intersection of backend engineering and AI: building agentic workflows, multi-tier data retrieval pipelines, and RAG architectures that stay accurate.
-
-- Interested in **Forward Deployed Engineering (FDE)** and customer-focused backend systems
-- Built and automated CI/CD pipelines with GitHub Actions across multiple production updates
-- Daily-driving Linux and building around RESTful APIs, caching layers, and vector stores
-
----
-
-## Tech Stack
-
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Responsive UI](https://img.shields.io/badge/Responsive_UI-38B2AC?style=for-the-badge)
-
-### Backend, Databases & Caching
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Generative AI & Machine Learning
-![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6A5ACD?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector_Embeddings-5B4B8A?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| ACHIEVEMENT | HOW IT WAS EARNED |
+|:---|:---|
+| **Ship It** | Took a platform from empty folder to 50+ real clients |
+| **Butler Summoner** | Built a voice assistant and named it after Batman's butler |
+| **Backronym Master** | Reverse-engineered an acronym to justify that name |
+| **Penny Pincher** | Cut redundant LLM calls with semantic caching |
+| **Mind Reader** | Hit 76.14% accuracy reading human emotions |
+| **Recycler** | Reused the emotion model as A.L.F.R.E.D's mood sensor |
+| **Cloud Walker** | AWS Academy Cloud Architecting + Cloud Foundations |
+| **Tutorial Complete** | MATLAB Onramp |
 
 ---
 
-## Experience
+## FORECAST
 
-### Software Development Intern — ITZ4U Consultants Pvt. Ltd.
-*May 2026 – July 2026 | Mumbai, Maharashtra*
-- Built a tax-filing and document management web app from scratch using HTML, CSS, and JS, serving **50+ active clients**.
-- Handled billing by tying in Razorpay payments and automatic invoice generation, with an admin panel to verify documents without manual back-and-forth.
-- Implemented Firebase Auth and role-based permissions (RBAC) so sensitive client uploads stayed locked down.
-- Set up automated CI/CD using GitHub Actions, pushing out 10+ updates and fixes while running an Agile workflow.
+**Today:** High chance of agents, with scattered tool calls through the afternoon.
+**Tonight:** RAG evaluation moving in. Hallucinations expected to clear by morning.
+**Outlook:** Steady growth through 2027.
 
 ---
 
-## Projects
+<div align="center">
 
-### TravAI
-**React • TypeScript • Gemini API • RAG • Pinecone • OpenStreetMap API • Vercel**  
-*Check it out live at [travai.hyp.app](https://travai.hyp.app)*
+## CLASSIFIEDS
 
-An autonomous, conversational travel planner designed to eliminate generic itineraries by combining live geographical data with LLM context.
+**PLAYER 2 WANTED**
 
-- **Conversational Intelligence:** Leveraged Google Gemini with streaming inference and structured prompt engineering to parse freeform travel constraints like budget, pace, and preferences on the fly.
-- **Grounding with Vector Search:** Architected a RAG pipeline backed by Pinecone embeddings, ensuring recommendations for accommodations and spots are grounded in curated destination knowledge rather than model hallucinations.
-- **Real-World Integrations:** Pulled dynamic location points using the OpenStreetMap and Overpass APIs to generate realistic day-by-day routes.
-- **Agentic Roadmap:** Actively building autonomous tool-calling capabilities, routing sub-tasks (like flight lookups vs. restaurant picks), and orchestrating multi-step plans with RAG evaluation checks.
+Backend and AI builder seeks team for internships and full-time roles (2027).
+Strong interest in Forward Deployed Engineering.
+Will talk RAG, agents, and backend architecture for hours.
 
-### JobFinder
-**Python • spaCy • Sentence-Transformers • Gemini 3.5 Flash-Lite • httpx • SQLite • Rich**
+**[Send a party invite](mailto:akshathkannan3@gmail.com)**
 
-An asynchronous, two-stage ranking job search aggregator built to strip out noisy listings and pinpoint high-match engineering roles without wasting API credits.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d3250&height=100&section=footer" width="100%"/>
 
-- **Multi-Tier Ingestion:** Concurrently queries platforms like Adzuna, The Muse, Greenhouse, and Lever via `httpx`, using query-splitting and dynamic rate-budget fallbacks so it doesn't get throttled.
-- **Two-Stage Ranking Engine:** Uses fast, local vector embeddings (`all-MiniLM-L6-v2`) to quickly filter out low-relevance roles, followed by a pass through Gemini 3.5 Flash-Lite for deep fit-scoring, resume gap analysis, and personalized insights.
-- **Autonomous Search Waterfall:** Dynamically widens query parameters if high-confidence matches (≥85%) run dry, while enforcing strict regex-based experience gating to prevent over-qualified role mismatches.
-- **Deduplication & Caching:** Uses in-memory semantic signatures and an SQLite caching layer to detect duplicate cross-board posts and avoid redundant LLM calls, keeping token costs down.
-
-### Facial Expression Recognition
-**Python • TensorFlow • OpenCV • dlib**
-
-A real-time computer vision system that classifies human emotions through geometric facial landmark distances rather than plain pixel intensity maps.
-
-- **Geometric Feature Extraction:** Leveraged dlib to detect 68 facial landmark coordinates in real-time, calculating relative spatial vectors across facial regions.
-- **Neural Network Architecture:** Designed a custom feedforward neural network in TensorFlow optimized with ReLU activations, dropout layers to prevent overfitting, and the Adam optimizer.
-- **Evaluation:** Evaluated across 7 emotion classes on the CK+ dataset, reaching **76.14% validation accuracy** across 981 samples with live webcam inference.
-
----
-
-## Certifications
-
-- AWS Academy Cloud Architecting
-- AWS Academy Cloud Foundations
-- MATLAB Onramp
+</div>
